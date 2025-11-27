@@ -9,7 +9,7 @@
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "require": "^2.4.20",
     "tiktok-api": "^0.4.0"
   },
